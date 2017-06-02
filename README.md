@@ -1,4 +1,4 @@
-# tiea1_sh0
+# tiea1_sh0 (0. suunnitteluharjoitus)
 
 Käyttöliittymien perusteet, kevät 2017
 
