@@ -1,0 +1,15 @@
+- jos haluaa rajata/tarkentaa hakuaan, Monsterin haku vaihtaa kaupunkia (sekä Nokia + Tampere paikkakuntina ei toimi)
+	- siis esim. haet Tampereelta työpaikkoja ja haluat lisätä hakuehtoihin Tampereen lisäksi Nokian → ei toimi näin, vaan vaihtaa hakuehdoksi yksinomaan Nokian
+- ei löydy ”tarkenna hakua” tms. -painiketta!
+	- kun rajaa hakutuloksia (esim. valitsee alueen kokoa, Monsterin haku aloittaa välittömästi haun, vaikka käyttäjä haluaisi vielä mahdollisesti tarkentaa jollain muullakin hakukriteerillä
+- jos haetaan alueen/paikkakunnan perusteella, miksi hakutulosten rajauksessa on vielä erikseen kaupungin valinta?
+	- ehkä kätevämpi ratkaisu: jätetään koko kaupungin rajauskenttä kokonaan pois / annetaan mahdollisuus lisätä lisää kaupunkeja…?
+- hakuehdot-termi ei toimi hakutulosten rajaamisessa, kun kyseessä on paikkakunnan perusteella haku
+	- ehkä parempi ratkaisu: pois koko kohta tai kuvaavammaksi…?
+- ”alueen koko” → joku voi ajatella: mitä tällä tarkoitetaan?
+	- kuvaavampi teksti olisi toimivampaa…
+- ”Hae yrityksiä” -kentän käyttö edellyttää Enter-painikkeen (Macissa: Return-painikkeen) painamista.
+	- Parempi ratkaisu: ks. edellä ”tarkenna hakua” -painike koko ”hakutulosten rajaus” -osion loppuun.
+- ”Hae yrityksiä” -kentän tyhjennys → ei mahdollinen kuin ”Backspace”-näppäimellä.
+- Ei ennustavaa tekstihakua ”Hae yrityksiä” -kentässä esim. Googlen tapaan.
+	→ Käyttäjän on tiedettävä, mitä hakee.
