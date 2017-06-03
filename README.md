@@ -1,6 +1,4 @@
-# 0. suunnitteluharjoitus (SH0)
-
-0. suunnitteluharjoitus Tampereen yliopiston Käyttöliittymien perusteet -kurssille. (c) 2017.
+# Suunnitteluharjoitus 0 (SH0)
 
 [0. suunnitteluharjoituksen tehtävänanto](https://github.com/areee/tiea1_sh0/blob/master/SH0_tehtavananto.pdf)
 
